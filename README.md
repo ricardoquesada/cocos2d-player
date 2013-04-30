@@ -28,7 +28,7 @@ Google Nexus 4, Google Nexus 10, Google Nexus 7, Samsung Galaxy Nexus, Samsung G
 ## Build Instructions
 
 ```
-$ git clone git@github.com:rohankuruvilla/cocos2d-player.git .
+$ git clone git@github.com:cocos2d/cocos2d-player.git .
 $ cd cocos2d-player/
 $ git submodule update --init --recursive
 ```
